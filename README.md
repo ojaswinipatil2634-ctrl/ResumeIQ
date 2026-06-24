@@ -1,1 +1,1 @@
-# ResumeIQ — Full Stack Setup Guide
+# ResumeIQ 
