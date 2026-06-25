@@ -57,5 +57,3 @@ The system uses **Artificial Intelligence and Natural Language Processing (NLP)*
 ✅ Modern responsive interface  
 
 ---
-
-## 🧠 How It Works
